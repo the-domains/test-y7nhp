@@ -1,17 +1,18 @@
 ---
-datePublished: '2016-08-02T20:08:20.334Z'
+datePublished: '2016-08-02T20:10:33.124Z'
+sourcePath: _posts/2016-08-02-ollen-er-godt-nok-sej.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1ff9cf9-9cd0-4508-b2ec-cd7f92e33a6c.jpg
 author: []
 via: {}
-dateModified: '2016-08-02T20:08:07.333Z'
+dateModified: '2016-08-02T20:10:32.244Z'
 title: Ollen er godt nok sej (;
 publisher:
+  name: Ollen
   url: >-
     https://www.google.dk/search?q=beautiful&oq=beautiful&aqs=chrome..69i57j0l5.5332j0j7&sourceid=chrome&ie=UTF-8#q=ollen
 description: Tænk at han kan finde ud af at lave noget så smart!
 starred: false
-sourcePath: _posts/2016-08-02-ollen-er-godt-nok-sej.md
 inFeed: true
 hasPage: false
 inNav: false
