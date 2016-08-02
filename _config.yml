@@ -1,4 +1,3 @@
-layout_spectrum: 0.264236296992749
 typography_spectrum: 0.06221028883010149
 color:
   brandStrength: 0.720492931548506
@@ -11,5 +10,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+layout_spectrum: 0.264236296992749
 name: Test
 title: Beautiful
+description: Take a look!
