@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-02T20:10:33.124Z'
+datePublished: '2016-08-02T20:12:20.956Z'
 sourcePath: _posts/2016-08-02-ollen-er-godt-nok-sej.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1ff9cf9-9cd0-4508-b2ec-cd7f92e33a6c.jpg
 author: []
 via: {}
-dateModified: '2016-08-02T20:10:32.244Z'
+dateModified: '2016-08-02T20:12:20.556Z'
 title: Ollen er godt nok sej (;
 publisher:
   name: Ollen
