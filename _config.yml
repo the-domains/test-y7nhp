@@ -14,5 +14,9 @@ color:
     - '#253237'
 layout_spectrum: 0.264236296992749
 name: Oscars Hjemmeside
+navigation:
+  - name: Callen er fin
+    id: 96169231-818c-4934-830e-7e2ba53e34d6
+    type: content
 title: Beautiful Articles
 description: Take a look!
