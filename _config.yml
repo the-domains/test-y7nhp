@@ -1,4 +1,6 @@
 typography_spectrum: 0.06221028883010149
+content_rating:
+  adult: true
 color:
   brandStrength: 0.720492931548506
   lightness: 0.442828866885975
@@ -11,6 +13,6 @@ color:
     - '#5C6B73'
     - '#253237'
 layout_spectrum: 0.264236296992749
-name: Test
+name: Oscars Hjemmeside
 title: Beautiful Articles
 description: Take a look!
